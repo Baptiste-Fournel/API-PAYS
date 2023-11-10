@@ -1,0 +1,5 @@
+/.idea/
+/MyTestableApi.Api/bin/
+/MyTestableApi.Api/obj/
+/MyTestableApi.Tests/bin/
+/MyTestableApi.Tests/obj/
